@@ -7,9 +7,6 @@ const navItems = () => (
     <NavItem link="/" active>
       Burger Builder
     </NavItem>
-    {/* <NavItem link="/" active>
-      Checkout
-    </NavItem> */}
     <NavItem link="/">Checkout</NavItem>
   </ul>
 );
